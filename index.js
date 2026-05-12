@@ -1,3 +1,3 @@
-let automobiles["car"]
+let automobiles= [car, truck, motorcycle]
 
 automobiles.push("airplane", "skateboard")
